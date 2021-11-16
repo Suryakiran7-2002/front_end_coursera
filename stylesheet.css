@@ -2,6 +2,14 @@
     color: rgba(0,0,0,1);
 }
 
+body{
+    font-family: 'Road Rage', cursive;
+}
+
+.fs-1 {
+    font-size: calc(3rem)!important;
+}
+
 hr{
     
     margin : 0;
