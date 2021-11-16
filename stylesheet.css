@@ -1,0 +1,29 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,1);
+}
+
+hr{
+    
+    margin : 0;
+    padding: 0;
+   
+}
+
+.bg{
+    
+    background-color: rgb(229,209,152);
+    color: black;
+}
+
+.bg-red{
+    background-color: rgb(193,69,67);
+}
+
+
+@media screen and (max-width: 575px){
+    .navbar{
+         padding-bottom: 0%;
+    }
+}
+       
+    
